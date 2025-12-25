@@ -1,1 +1,3 @@
 # to-do-manager-repo
+
+## Overview This project is a simple to-do manager implemented in C. It allows you to compile it and use it to manage your tasks. ## Getting Started ### Prerequisites To run this project, you will need a C compiler such as GCC. ### Installation 1. Clone the repository: git clone [repository_url] 2. Navigate to the project directory. ## Usage ### Compilation Make sure both main.c and save.txt are in the same directory. Compile the program as follows: gcc main.c -o to-do_manager ### Run the program: ./to-do_manager This will launch the to-do manager and allow you to manage your tasks.
